@@ -1,2 +1,16 @@
-# tiny-llm-esp32s3
+# Tiny Llm Esp32S3
+
 Running small language models on the $8 ESP32-S3 using per-layer embeddings and bare-metal C.
+
+## Project layout
+
+- `firmware/` — ...
+- `src/` — ...
+- `models/` — ...
+- `tools/` — ...
+- `docs/` — ...
+
+## Status
+
+Initial scaffold. Content and experiments in progress.
+
